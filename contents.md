@@ -1,3 +1,4 @@
-- Send a plain text email
-- Send an email with attachment
-- Receive and filter emails according to some criteria
+Use Python to:
+- send a plain text email
+- send an email with attachment
+- receive and filter emails according to some criteria
